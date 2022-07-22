@@ -6,4 +6,7 @@ HTML5 Web site Developing
 2022. 07. 21. Thu.
 2 번째 개발 회의 완료
 
+2022. 07. 22. Fri.
+3 번째 개발 화의 완료
+
 ## README.md 파일 작성 / 작성자 오윤택
